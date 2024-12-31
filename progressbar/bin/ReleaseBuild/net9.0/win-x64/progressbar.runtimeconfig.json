@@ -13,6 +13,7 @@
       "System.ComponentModel.Design.IDesignerHost.IsSupported": false,
       "System.ComponentModel.TypeConverter.EnableUnsafeBinaryFormatterInDesigntimeLicenseContextSerialization": false,
       "System.ComponentModel.TypeDescriptor.IsComObjectDescriptorSupported": false,
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
       "System.Resources.ResourceManager.AllowCustomResourceTypes": false,
       "System.Resources.UseSystemResourceKeys": false,
       "System.Runtime.CompilerServices.RuntimeFeature.IsDynamicCodeSupported": true,
