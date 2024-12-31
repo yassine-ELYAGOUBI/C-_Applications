@@ -1,0 +1,40 @@
+# Build results
+#[Dd]ebug/
+#[Dd]ebugPublic/
+#[Dd]ist/
+#[Dd]ebugBuild/
+#[Dd]istBuild/
+#bin/
+#obj/
+#out/
+
+# User-specific files
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (on top of the typical ignore)
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Npm packages
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+.vscode/
+.idea/

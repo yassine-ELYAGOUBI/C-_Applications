@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Output type as an executable -->
+    <OutputType>Exe</OutputType>
+    
+    <!-- Target .NET Framework -->
+    <TargetFramework>net9.0</TargetFramework>
+    
+    <!-- Enable implicit `using` directives for convenience -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    
+    <!-- Enable nullable reference types -->
+    <Nullable>enable</Nullable>
+
+    <!-- Define build versioning -->
+    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>1.0.0.0</InformationalVersion>
+    
+    <!-- Define custom output paths -->
+    <OutputPath>bin/ReleaseBuild/</OutputPath>
+    
+    <!-- Runtime Identifier for platform-specific builds -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    
+    <!-- Enable self-contained deployment -->
+    <SelfContained>true</SelfContained>
+    
+    <!-- Enable single-file publish -->
+    <PublishSingleFile>true</PublishSingleFile>
+    
+    <!-- Trim unused libraries to reduce size -->
+    <PublishTrimmed>true</PublishTrimmed>
+
+    <!-- Enable deterministic builds -->
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Example NuGet package reference -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
+

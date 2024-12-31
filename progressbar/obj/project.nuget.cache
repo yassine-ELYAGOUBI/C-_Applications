@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lhEn7k/6oM=",
+  "success": true,
+  "projectFilePath": "E:\\PERSONAL DATA\\Csharp_Applications\\progressbar\\progressbar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacoubi\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacoubi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jacoubi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacoubi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\jacoubi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
